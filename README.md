@@ -32,10 +32,7 @@
 ## Acknowledgements
 Give credit here.
 - This project was inspired by upGrad and IIITB Machine Learning & AI Program
-- This project was based on [Linear Regression](https://learn.upgrad.com/course/7715/segment/58878/354738/1069853/5340587).
 
-## Contact
-Created by [Huy Vo](https://github.com/lacusu) - feel free to contact me!
 
 
 <!-- Optional -->
